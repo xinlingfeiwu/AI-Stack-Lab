@@ -1,0 +1,45 @@
+AI-Stack-Lab/
+├── README.md                          # 项目主文档
+├── .gitignore                         # Git 忽略文件
+│
+├── 01-MCP/                            # MCP 学习模块
+│   ├── README.md                      # MCP 模块总览
+│   ├── 01-Foundation/                 # 基础篇
+│   │   ├── 01-introduction.md         # MCP 简介
+│   │   ├── 02-architecture.md         # 架构设计
+│   │   ├── 03-setup.md                # 环境搭建
+│   │   └── examples/                  # 示例代码
+│   ├── 02-Intermediate/               # 进阶篇
+│   │   ├── 01-custom-server.md        # 自定义服务器
+│   │   ├── 02-tools-resources.md      # 工具与资源
+│   │   ├── 03-prompts.md              # 提示词系统
+│   │   └── projects/                  # 实战项目
+│   ├── 03-Advanced/                   # 高级篇
+│   │   ├── 01-optimization.md         # 性能优化
+│   │   ├── 02-security.md             # 安全最佳实践
+│   │   ├── 03-production.md           # 生产环境部署
+│   │   └── advanced-projects/         # 高级项目
+│   └── 04-Expert/                     # 专家篇
+│       ├── 01-custom-protocol.md      # 协议扩展
+│       ├── 02-integration.md          # 企业集成
+│       ├── 03-case-studies.md         # 案例研究
+│       └── expert-projects/           # 专家级项目
+│
+├── 02-Skills/                         # Skills 学习模块（未来）
+│   └── README.md                      # Skills 模块总览
+│
+├── 03-Integration/                    # 集成实践（未来）
+│   ├── MCP-with-Skills/               # MCP 与 Skills 结合
+│   └── README.md
+│
+├── Resources/                         # 学习资源
+│   ├── books.md                       # 推荐书籍
+│   ├── articles.md                    # 优质文章
+│   ├── videos.md                      # 视频教程
+│   └── communities.md                 # 社区资源
+│
+├── Projects/                          # 完整项目
+│   └── README.md                      # 项目说明
+│
+└── Notes/                             # 学习笔记
+    └── README.md                      # 笔记说明
